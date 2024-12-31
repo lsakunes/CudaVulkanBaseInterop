@@ -22,7 +22,7 @@ Here's an abbreviated to-do list:<br>
   10. Signal the second semaphore to tell Vulkan that the VkImage is ready for presentation<br>
   11. goto 7<br>
 <h2>Sources</h2>
-https://github.com/NVIDIA/cuda-samples/blob/master/Samples/5_Domain_Specific/vulkanImageCUDA/vulkanImageCUDA.cu
-https://forums.developer.nvidia.com/t/cuda-vulkan-vkimage-interop/278691
-https://stackoverflow.com/questions/55424875/use-vulkan-vkimage-as-a-cuda-cuarray
+https://github.com/NVIDIA/cuda-samples/blob/master/Samples/5_Domain_Specific/vulkanImageCUDA/vulkanImageCUDA.cu<br>
+https://forums.developer.nvidia.com/t/cuda-vulkan-vkimage-interop/278691<br>
+https://stackoverflow.com/questions/55424875/use-vulkan-vkimage-as-a-cuda-cuarray<br>
   
